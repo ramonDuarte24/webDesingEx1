@@ -1,0 +1,32 @@
+table		{vertical-align: middle;
+   		 text-align: center}
+
+table,td{
+	border-width: 0px;
+	border-collapse: separate;
+	border-spacing: 20px;
+	background-color: #000;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+}
+body{
+	background-image: url("2031-bg (1).png");
+	background-repeat:repeat;
+}
+h1,h2,h3{
+	color: #00ff00;
+	font-family: "segoe print",verdana,sans-serif;
+}
+h1{
+	font-size: 35px;
+}
+h2{
+	font-size: 14px;
+	text-align:left;; 
+}
+h3{
+	font-size: 12pt;
+	text-align: right;
+}
+/* Ramón Duarte/UY027/0006 */
